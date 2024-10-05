@@ -1,5 +1,0 @@
-Versionamento de Código
-
-Hello World!
-
-let x = 10
