@@ -1,1 +1,3 @@
-# TÍTULO DO MEU PROJETO
+# TÍTULO DO MEU PROJETO - LISTA
+
+- Testando conhecimento de Versionamento
