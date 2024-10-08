@@ -1,5 +1,9 @@
-Versionamento de Código
+Versionamento de Código!
 
-Hello World!
+Tarefas:
 
-let x = 10
+[x] O que é Git
+[x] Como criar um repositório local
+[x] O que é Github?
+[x] Como criar repositório remoto
+[x] Como conectar repositórios local e remoto?
