@@ -7,3 +7,4 @@ Tarefas:
 [x] O que é Github?
 [x] Como criar repositório remoto
 [x] Como conectar repositórios local e remoto?
+[x] Utilizando PULL e PUSH requests
